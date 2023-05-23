@@ -1,13 +1,14 @@
 {
   "name": "stratum-ethproxy",
   "version": "1.0.0",
-  "description": "",
+  "description": "npm install",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
   },
   "author": "OneEvil",
   "license": "ISC",
+  "private": "true",
   "dependencies": {
     "dotenv": "^4.0.0"
   }
